@@ -36,6 +36,6 @@ BCA student with a passion for coding and web development. Skilled in creating c
 
 ## 📞 Connect with Me  
 - **GitHub**: [shubham-shipt](https://github.com/shubham-shipt)  
-- **Email**: [your-email@example.com] *(Add your email here)*  
+- **Email**: shubscript213@gmail.com 
 
 Thanks for visiting! 😊 Let’s build something amazing together!
