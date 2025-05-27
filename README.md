@@ -7,7 +7,7 @@ Heyy! 👋 I’m Shubham, a BCA student passionate about coding, web development
 ## 📜 Certificates
 
 All my certificates are in a single PDF. Check them out here:  
-📥 [Download My Certificates](https://github.com/shubham-shipt/Certificate/raw/main/Shubham_Certificates.pdf)
+📥 [Download My Certificates](https://github.com/shubham-shipt/Certificate/blob/main/C%2B%2B.pdf)
 
 ### 1. Linux OS Certificate  
 Learned basic to intermediate Linux commands, terminal operations, file permissions, and shell navigation.
