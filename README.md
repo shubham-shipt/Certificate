@@ -1,7 +1,5 @@
 # 🏆 My Certificates
 
-Heyy! 👋 I’m Shubham, a BCA student passionate about coding, web development, and cybersecurity. Below are my certificates that showcase my skills! 🚀
-
 ---
 
 ## 📜 Certificates
